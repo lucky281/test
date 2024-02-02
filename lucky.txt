@@ -13,7 +13,8 @@ CCTV1,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001022/index.m3
 广东|大湾区卫视,https://php.17186.eu.org/gdtv/web/nfws.m3u8
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
-凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8广东珠江,https://php.17186.eu.org/gdtv/web/gdzj.m3u8
+凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
+广东珠江,https://php.17186.eu.org/gdtv/web/gdzj.m3u8
 1翡翠台,http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
 翡翠台,https://fake-stream.livednow.com/hkdvb/J?token=2c1b6c98b6f13d087566456133783b91
 翡翠台,https://fake-stream.livednow.com/hkdvb/81?token=c06df4f1f83fefa26eac8052a6a99d60

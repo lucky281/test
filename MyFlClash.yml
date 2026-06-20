@@ -177,7 +177,7 @@ dns:
 proxy-providers:
   sub:
     type: http
-    url: "https://dash.pqjc.site/api/v1/pq/253330243f1b11c9899c4bd380abe232"
+    url: "https://dash.xn--cp3a08l.com/api/v1/pq/5c44489b2ddd14f88d686fd58567b082"
     path: ./proxy-providers/sub.yaml
     # 更新时间，单位为秒，建议设置为 12 小时以上，避免过于频繁地下载订阅
     # 目前为 24 小时（86400 秒），根据需要调整
